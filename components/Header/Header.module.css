@@ -1,0 +1,25 @@
+.top {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: var(--inputs);
+  border-bottom: 1px solid var(--badges);
+}
+.topContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 450px;
+}
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+.navigationLink {
+  font-weight: 500;
+}
+.navigationLinkActive {
+  font-weight: 500;
+  color: var(--grey-green);
+}
