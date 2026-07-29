@@ -23,6 +23,7 @@ const Header = () => {
                     : css.navigationLink
                 }
                 href="/"
+                aria-label="Home Page"
               >
                 Home
               </Link>
@@ -35,6 +36,7 @@ const Header = () => {
                     : css.navigationLink
                 }
                 href="/catalog"
+                aria-label="Catalog Page"
               >
                 Catalog
               </Link>

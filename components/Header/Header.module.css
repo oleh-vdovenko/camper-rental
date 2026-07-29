@@ -3,6 +3,9 @@
   padding-bottom: 24px;
   background-color: var(--inputs);
   border-bottom: 1px solid var(--badges);
+  position: fixed;
+  z-index: 999;
+  width: 100%;
 }
 .topContainer {
   display: flex;

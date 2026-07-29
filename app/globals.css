@@ -58,7 +58,7 @@ body {
   margin: 0 auto;
 }
 
-h1.home-title {
+h1.homeTitle {
   font-weight: 600;
   font-size: 48px;
   line-height: 0.66667;
@@ -69,7 +69,8 @@ h1.camper-title {
   font-size: 24px;
   line-height: 1.33333;
 }
-h2 {
+h2,
+.homeText {
   font-weight: 600;
   font-size: 24px;
   line-height: 1.33333;
